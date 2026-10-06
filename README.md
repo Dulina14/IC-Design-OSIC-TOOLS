@@ -2,8 +2,8 @@
 ## Digital IC Implementation of 'AXIS UART MATRIX VECTOR MULTIPLIER' using OSIC Tools and IHP SG13G2 PDK
 
 **Consolidated Project Report**
-**Date:** [Insert Date]
-**Author:** [Your Name/Group]
+**Date:** May 21, 2025
+**Author:** Dulina H. Ranaweera
 
 ---
 
